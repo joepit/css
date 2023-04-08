@@ -1,0 +1,38 @@
+.AssetAction__container {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 40px;
+    width: 100%;
+}
+<style>
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+<style>
+body {
+    font-family: "PP Mori";
+    font-size: 16px;
+    min-width: 365px;
+}
+<style>
+html {
+    text-size-adjust: none;
+    position: relative;
+    height: 100%;
+}
+<style>
+::after, ::before {
+    box-sizing: border-box;
+}
+<style>
+::after, ::before {
+    box-sizing: border-box;
+}
